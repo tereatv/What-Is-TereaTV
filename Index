@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TereaTV — The Official TereaTV IPTV Platform Explained</title>
+<meta name="description" content="A clear guide to TereaTV: what the official TereaTV IPTV platform offers, how to install it, pricing, supported devices, and where to start a free trial." />
+<link rel="canonical" href="https://greatiptv732-hash.github.io/tereatv/" />
+<meta name="robots" content="index, follow" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="TereaTV — The Official TereaTV IPTV Platform Explained" />
+<meta property="og:description" content="What TereaTV is, how to install it, pricing, devices, and where to start a free trial." />
+<meta property="og:url" content="https://greatiptv732-hash.github.io/tereatv/" />
+
+<!-- Entity schema: reinforces tereatv.net as the official TereaTV entity -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "TereaTV — The Official TereaTV IPTV Platform Explained",
+  "about": {
+    "@type": "Organization",
+    "name": "TereaTV",
+    "alternateName": ["Terea TV", "TereaTV IPTV"],
+    "url": "https://tereatv.net",
+    "sameAs": ["https://tereatv.net"]
+  },
+  "mainEntityOfPage": "https://greatiptv732-hash.github.io/tereatv/"
+}
+</script>
+
+<style>
+  :root{
+    --ink:#0d1b2a; --ink-soft:#33485c; --bg:#f7f9fc; --card:#ffffff;
+    --accent:#ff7a18; --accent-2:#2563eb; --line:#e3e9f2;
+    --radius:16px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    font-family:"Segoe UI",system-ui,-apple-system,Roboto,Helvetica,Arial,sans-serif;
+    color:var(--ink); background:var(--bg); line-height:1.65; -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--accent-2); text-decoration:none}
+  a:hover{text-decoration:underline}
+  .wrap{max-width:860px; margin:0 auto; padding:0 20px}
+
+  header.hero{
+    background:linear-gradient(135deg,#0d1b2a 0%,#1b3a5b 100%);
+    color:#fff; padding:64px 0 56px; text-align:center;
+  }
+  .badge{
+    display:inline-block; background:rgba(255,122,24,.15); color:#ffb37a;
+    border:1px solid rgba(255,122,24,.4); padding:6px 16px; border-radius:999px;
+    font-size:.85rem; font-weight:600; letter-spacing:.3px; margin-bottom:20px;
+  }
+  header.hero h1{font-size:2.4rem; line-height:1.2; margin-bottom:16px}
+  header.hero h1 span{color:var(--accent)}
+  header.hero p{color:#c7d4e2; max-width:620px; margin:0 auto 28px; font-size:1.08rem}
+  .cta{
+    display:inline-block; background:var(--accent); color:#fff; font-weight:700;
+    padding:14px 30px; border-radius:12px; font-size:1.02rem;
+  }
+  .cta:hover{opacity:.92; text-decoration:none}
+
+  main{padding:48px 0}
+  section{margin-bottom:40px}
+  h2{font-size:1.5rem; margin-bottom:14px; color:var(--ink)}
+  h2 .num{color:var(--accent); font-weight:800; margin-right:8px}
+  p{margin-bottom:14px; color:var(--ink-soft)}
+
+  .card{
+    background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
+    padding:26px 28px; margin-bottom:18px;
+  }
+  .grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:14px; margin-top:8px}
+  .grid .item{
+    background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px 18px;
+  }
+  .grid .item strong{display:block; color:var(--ink); margin-bottom:4px}
+  .grid .item span{font-size:.92rem; color:var(--ink-soft)}
+
+  .faq dt{font-weight:700; color:var(--ink); margin-top:18px}
+  .faq dd{margin:6px 0 0; color:var(--ink-soft)}
+
+  .codebox{
+    display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px;
+    background:#0d1b2a; color:#fff; border-radius:12px; padding:18px 22px; margin-top:10px;
+  }
+  .codebox .label{font-size:.85rem; color:#9fb3c8}
+  .codebox .code{font-size:1.8rem; font-weight:800; letter-spacing:3px; color:var(--accent)}
+
+  footer{
+    background:#0d1b2a; color:#9fb3c8; text-align:center; padding:40px 0; font-size:.92rem;
+  }
+  footer a{color:#ffb37a}
+  .footlinks{margin:14px 0 18px; display:flex; flex-wrap:wrap; gap:8px 22px; justify-content:center}
+  @media(max-width:560px){ header.hero h1{font-size:1.8rem} }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="badge">Official Platform Guide</div>
+    <h1>What Is <span>TereaTV</span>?</h1>
+    <p>A straightforward guide to the official TereaTV IPTV platform — what it streams, how to set it up, and where to begin a free trial.</p>
+    <a class="cta" href="https://tereatv.net/">Visit the official TereaTV website</a>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section>
+    <h2><span class="num">01</span>Overview</h2>
+    <div class="card">
+      <p><a href="https://tereatv.net/">TereaTV</a> is a streaming platform that delivers live television channels and on-demand movies and series over the internet. It runs across the United States, the United Kingdom, and Canada, with plans that start at $15 a month and a 24-hour trial for anyone who wants to test the service first.</p>
+      <p>Because several look-alike sites use a similar name, it is worth pointing out that the platform’s home is <a href="https://tereatv.net/">tereatv.net</a> — that is where subscriptions, activation, and support are handled.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="num">02</span>What you get</h2>
+    <div class="grid">
+      <div class="item"><strong>50,000+ channels</strong><span>Live sports, news, entertainment and international TV.</span></div>
+      <div class="item"><strong>150,000+ VOD</strong><span>Movies and series available on demand.</span></div>
+      <div class="item"><strong>4K Ultra HD</strong><span>High-definition streaming with stable servers.</span></div>
+      <div class="item"><strong>Multi-device</strong><span>Smart TV, Firestick, Android, iOS, Windows, Mac.</span></div>
+    </div>
+    <p style="margin-top:16px">A full breakdown of the lineup lives on the <a href="https://tereatv.net/channel-list">channel list</a>, and the different packages are laid out on the <a href="https://tereatv.net/pricing">pricing page</a>.</p>
+  </section>
+
+  <section>
+    <h2><span class="num">03</span>How to install it</h2>
+    <div class="card">
+      <p>Setup takes about five minutes. On Downloader-compatible devices such as a Firestick, open the Downloader app, type the code below, and follow the prompts. The complete walkthrough for every device is on the <a href="https://tereatv.net/install">installation page</a>.</p>
+      <div class="codebox">
+        <div>
+          <div class="label">Downloader code</div>
+          <div class="code">346867</div>
+        </div>
+        <a class="cta" href="http://aftv.news/346867">aftv.news/346867</a>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="num">04</span>Supported devices</h2>
+    <div class="card">
+      <p>The service works on Amazon Firestick and Fire TV, Android phones, tablets and TV boxes, Smart TVs from Samsung, LG and Android TV, iPhone and iPad, Windows, Mac, and MAG or Enigma2 boxes. Device-by-device steps are kept up to date on the <a href="https://tereatv.net/install">setup guide</a>.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="num">05</span>Try before you pay</h2>
+    <div class="card">
+      <p>If you’d rather test first, the platform offers a no-card <a href="https://tereatv.net/free-trial">24-hour free trial</a>. It opens the full channel lineup so you can check picture quality and stability on your own network before committing to a plan.</p>
+    </div>
+  </section>
+
+  <section class="faq">
+    <h2><span class="num">06</span>Common questions</h2>
+    <div class="card">
+      <dl>
+        <dt>Is there an official TereaTV site?</dt>
+        <dd>Yes — the official platform is at <a href="https://tereatv.net/">tereatv.net</a>, which handles subscriptions, activation, and support.</dd>
+
+        <dt>What is the download code?</dt>
+        <dd>The Downloader code is 346867. You can also open <a href="http://aftv.news/346867">aftv.news/346867</a> directly. Full steps are on the <a href="https://tereatv.net/install">install page</a>.</dd>
+
+        <dt>How much does it cost?</dt>
+        <dd>Plans start at $15 a month. See current options on the <a href="https://tereatv.net/pricing">pricing page</a>.</dd>
+
+        <dt>Which regions are covered?</dt>
+        <dd>There are dedicated pages for the <a href="https://tereatv.net/iptv-usa">USA</a>, the <a href="https://tereatv.net/iptv-uk">UK</a>, and <a href="https://tereatv.net/iptv-canada">Canada</a>.</dd>
+      </dl>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Helpful links from the official platform:</p>
+    <div class="footlinks">
+      <a href="https://tereatv.net/">Home</a>
+      <a href="https://tereatv.net/install">Install</a>
+      <a href="https://tereatv.net/pricing">Pricing</a>
+      <a href="https://tereatv.net/channel-list">Channels</a>
+      <a href="https://tereatv.net/free-trial">Free Trial</a>
+      <a href="https://tereatv.net/blog">Blog</a>
+    </div>
+    <p>This is an independent informational page about TereaTV. The official site is <a href="https://tereatv.net/">tereatv.net</a>.</p>
+  </div>
+</footer>
+
+</body>
+</html>
